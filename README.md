@@ -1,5 +1,5 @@
 # Coursera-Certifications
-This is a repository to showcase my completed courses on the Coursera platform. I have attempted to group the courses based on the data science Venn diagram. Feel free to check out the courses ([COURSE NAME]() links) and certificates ([CERT]() links)!
+This is a repository to showcase my achievement in the courses I took for self-development on the Coursera platform. I have attempted to group the courses based on the data science Venn diagram. Feel free to check out the courses ([COURSE NAME]() links) and certificates ([CERT]() links)!
 <p align="center"> <img src="https://miro.medium.com/max/1000/1*lws-OQOODF-wP9XLH1NDHQ.png" alt="Data Science Venn Diagram" width="350" height="310""/> </p>
 
 
@@ -136,6 +136,7 @@ This is a repository to showcase my completed courses on the Coursera platform. 
 ## [Courses](https://www.coursera.org/courses)
 ### (A) Computer Science
 - [Python Programming Essentials](https://www.coursera.org/learn/python-programming) (Rice University) ([CERT](https://www.coursera.org/account/accomplishments/certificate/SCHPQ8ZJ3TPX))
+- [Getting started with TensorFlow 2](https://www.coursera.org/learn/getting-started-with-tensor-flow2) (Imperial College London) ([CERT](https://www.coursera.org/account/accomplishments/certificate/3CU5JVZ95J9P))
 - [Cloud Computing Basics (Cloud 101)](https://www.coursera.org/learn/cloud-computing-basics) (LearnQuest) ([CERT](https://www.coursera.org/account/accomplishments/certificate/4AE32QZ39GGD))
 - [The Unix Workbench](https://www.coursera.org/learn/unix) (Johns Hopkins University) ([CERT](https://www.coursera.org/account/accomplishments/certificate/QVA7HY98LKNW))
 
@@ -149,7 +150,7 @@ This is a repository to showcase my completed courses on the Coursera platform. 
 ### (A ∩ B) Machine Learning
 - [Machine Learning](https://www.coursera.org/learn/machine-learning) (Stanford University) ([CERT](https://www.coursera.org/account/accomplishments/certificate/9UGWQTVD9AVY))
 - [Machine Learning for All](https://www.coursera.org/learn/uol-machine-learning-for-all) (University of London) ([CERT](https://www.coursera.org/account/accomplishments/certificate/6PEVZEA3EAZ4))
-- [Getting started with TensorFlow 2](https://www.coursera.org/learn/getting-started-with-tensor-flow2) (Imperial College London) ([CERT](https://www.coursera.org/account/accomplishments/certificate/3CU5JVZ95J9P))
+- [Customising your models with TensorFlow 2](https://www.coursera.org/learn/customising-models-tensorflow2)
 - [Getting Started with AWS Machine Learning](https://www.coursera.org/learn/aws-machine-learning) (Amazon Web Services) ([CERT](https://www.coursera.org/account/accomplishments/certificate/UKK9BTBF2DBD))
 - [An Introduction to Practical Deep Learning](https://www.coursera.org/learn/intro-practical-deep-learning) (Intel) ([CERT](https://www.coursera.org/account/accomplishments/certificate/KXRV73X7U539))
 - [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/certificate/KMVEC4J3Q9UZ))
