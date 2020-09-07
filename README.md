@@ -253,7 +253,7 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 ### (A ∩ B) Machine Learning
 - [Machine Learning](https://www.coursera.org/learn/machine-learning) (Stanford University) ([CERT](https://www.coursera.org/account/accomplishments/certificate/9UGWQTVD9AVY))
 - [Machine Learning for All](https://www.coursera.org/learn/uol-machine-learning-for-all) (University of London) ([CERT](https://www.coursera.org/account/accomplishments/certificate/6PEVZEA3EAZ4))
-- [Customising your models with TensorFlow 2](https://www.coursera.org/learn/customising-models-tensorflow2)
+- [Customising your models with TensorFlow 2](https://www.coursera.org/learn/customising-models-tensorflow2) (Imperial College London) ([CERT](https://www.coursera.org/account/accomplishments/certificate/ETAAVQ38RJYB))
 - [Getting Started with AWS Machine Learning](https://www.coursera.org/learn/aws-machine-learning) (Amazon Web Services) ([CERT](https://www.coursera.org/account/accomplishments/certificate/UKK9BTBF2DBD))
 - [An Introduction to Practical Deep Learning](https://www.coursera.org/learn/intro-practical-deep-learning) (Intel) ([CERT](https://www.coursera.org/account/accomplishments/certificate/KXRV73X7U539))
 - [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/certificate/KMVEC4J3Q9UZ))
