@@ -27,7 +27,7 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 
 - [Data Engineering with Google Cloud](https://www.coursera.org/professional-certificates/gcp-data-engineering) (Google Cloud)
   1. [Data Engineering, Big Data, and Machine Learning on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning)
-    1. [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals)
+    1. [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals) ([CERT](https://www.coursera.org/account/accomplishments/certificate/5BHSFQR9BC6B))
     2. [Modernizing Data Lakes and Data Warehouses with GCP](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp)
     3. [Building Batch Data Pipelines on GCP](https://www.coursera.org/learn/batch-data-pipelines-gcp)
     4. [Building Resilient Streaming Analytics Systems on GCP](https://www.coursera.org/learn/streaming-analytics-systems-gcp)
@@ -276,14 +276,18 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 - [Beginning SQL Server](https://www.coursera.org/projects/beginning-sql-server) ([CERT](https://www.coursera.org/account/accomplishments/certificate/UB4AE43MTAAM))
 - [Database Design and Diagramming in Dia](https://www.coursera.org/projects/database-design-and-diagramming-in-dia) ([CERT](https://www.coursera.org/account/accomplishments/certificate/3N7WYGSBEAL6))
 - [Create Customer Support Data with Google Sheets](https://www.coursera.org/projects/create-customer-support-data-with-google-sheets) ([CERT](https://www.coursera.org/account/accomplishments/certificate/MJRNN47PQP3R))
+- [Spreadsheets for Beginners using Google Sheets](https://www.coursera.org/projects/spreadsheets-beginner-google-sheets) ([CERT](https://www.coursera.org/account/accomplishments/certificate/9YVHLKBBPPER))
 
 #### Visualisation
 - [Computer Vision - Image Basics with OpenCV and Python](https://www.coursera.org/projects/computer-vision-opencv-for-images) ([CERT](https://www.coursera.org/account/accomplishments/certificate/LEXZQMR8GHHS))
 - [Data Visualization with Plotly Express](https://www.coursera.org/projects/data-visualization-plotly-express) ([CERT](https://www.coursera.org/account/accomplishments/certificate/MMJUCJDBPUZJ))
 - [Analyze Box Office Data with Plotly and Python](https://www.coursera.org/projects/analyze-data-plotly-python) ([CERT](https://www.coursera.org/account/accomplishments/certificate/PVBCGCN8RRNM))
+- [Create Informative Presentations with Google Slides](https://www.coursera.org/learn/create-informative-presentations-google-slides) ([CERT](https://www.coursera.org/account/accomplishments/certificate/CUQRVVG7E96L))
 
-#### Web Development
+#### Web Development & Graphics Design
 - [Develop a Company Website with Wix](https://www.coursera.org/projects/develop-a-company-website-with-wix) ([CERT](https://www.coursera.org/account/accomplishments/certificate/UFKCJEDAMQM8))
+- [Create a Business Marketing Brand Kit Using Canva](https://www.coursera.org/learn/create-business-marketing-brand-kit-using-canva) ([CERT](https://www.coursera.org/account/accomplishments/certificate/RYJM4ULGR9C9))
+- [Use Canva to Create Social Media Marketing Designs](https://www.coursera.org/projects/using-canva-create-social-media-marketing-design) ([CERT](https://www.coursera.org/account/accomplishments/certificate/N22EJ7TFUA8T))
 
 #### Version Control
 - [Git for Developers Using Github](https://www.coursera.org/projects/git-for-developers-using-github) ([CERT](https://www.coursera.org/account/accomplishments/certificate/3SRD4TM98L22))
@@ -295,11 +299,13 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 - [Processing Data with Python](https://www.coursera.org/learn/python-data-processing) ([CERT](https://www.coursera.org/account/accomplishments/certificate/Z9HE3JKEVBG9))
 - [Exploratory Data Analysis with Seaborn](https://www.coursera.org/projects/exploratory-data-analysis-seaborn) ([CERT](https://www.coursera.org/account/accomplishments/certificate/VV356BT4TWWF))
 - [Image Data Augmentation with Keras](https://www.coursera.org/projects/data-augmentation-keras) ([CERT](https://www.coursera.org/account/accomplishments/certificate/B3VVAWMJ5UZZ))
+- [Build Data Analysis and Transformation Skills in R using DPLYR](https://www.coursera.org/projects/dplyr) ([CERT](https://www.coursera.org/account/accomplishments/certificate/V24KU8C9T8CA))
 
 ### (B) Mathematics & Statistics
 - [Intro to Time Series Analysis in R](https://www.coursera.org/projects/intro-time-series-analysis-in-r) ([CERT](https://www.coursera.org/account/accomplishments/certificate/RMWV944U7L84))
 
 ### (C) Domain Expertise
+- [Google Ads for Beginners](https://www.coursera.org/learn/google-ads-beginner) ([CERT](https://www.coursera.org/account/accomplishments/certificate/MYD6SR5BUQ3P))
 
 ### (A ∩ B) Machine Learning
 #### Supervised
