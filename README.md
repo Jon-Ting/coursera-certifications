@@ -26,13 +26,13 @@ This is a repository to showcase my achievement in the courses I took/am taking 
   5. [IT Security: Defense against the digital dark arts](https://www.coursera.org/learn/it-security) ([CERT](https://www.coursera.org/account/accomplishments/certificate/28QAARRSW4BH))
 
 - [Data Engineering with Google Cloud](https://www.coursera.org/professional-certificates/gcp-data-engineering) (Google Cloud)
-  1. [Data Engineering, Big Data, and Machine Learning on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning)
+  - [Data Engineering, Big Data, and Machine Learning on GCP Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning)
     1. [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals) ([CERT](https://www.coursera.org/account/accomplishments/certificate/5BHSFQR9BC6B))
     2. [Modernizing Data Lakes and Data Warehouses with GCP](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp)
     3. [Building Batch Data Pipelines on GCP](https://www.coursera.org/learn/batch-data-pipelines-gcp)
     4. [Building Resilient Streaming Analytics Systems on GCP](https://www.coursera.org/learn/streaming-analytics-systems-gcp)
     5. [Smart Analytics, Machine Learning, and AI on GCP](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp)
-  2. [Modernizing Data Lakes and Data Warehouses with GCP](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam)
+  - [Modernizing Data Lakes and Data Warehouses with GCP](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam)
 
 - [Cloud Architecture with Google Cloud](https://www.coursera.org/professional-certificates/gcp-cloud-architect) (Google Cloud)
   - [Cloud Engineering with Google Cloud](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
