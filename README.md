@@ -159,7 +159,7 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 
 - [Machine Learning for Everyone with Eric Siegel](https://www.coursera.org/specializations/machine-learning-for-everyone) (SAS)
   1. [The Power of Machine Learning: Boost Business, Accumulate Clicks, Fight Fraud, and Deny Deadbeats](https://www.coursera.org/learn/the-power-of-machine-learning) ([CERT](https://www.coursera.org/account/accomplishments/certificate/4HQJ52GMV5V2))
-  2. [Launching Machine Learning: Delivering Operational Success with Gold Standard ML Leadership](https://www.coursera.org/learn/launching-machine-learning-leadership)
+  2. [Launching Machine Learning: Delivering Operational Success with Gold Standard ML Leadership](https://www.coursera.org/learn/launching-machine-learning-leadership) ([CERT](https://www.coursera.org/account/accomplishments/certificate/DCJ3QWJS4CLW))
   3. [Machine Learning Under the Hood: The Technical Tips, Tricks, and Pitfalls](https://www.coursera.org/learn/machine-learning-under-the-hood)
 
 ### (B ∩ C) Research
