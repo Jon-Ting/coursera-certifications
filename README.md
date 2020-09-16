@@ -244,7 +244,7 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 - [The Unix Workbench](https://www.coursera.org/learn/unix) (Johns Hopkins University) ([CERT](https://www.coursera.org/account/accomplishments/certificate/QVA7HY98LKNW))
 
 ### (B) Mathematics & Statistics
-- [Bayesian Statistics: From Concept to Data Analysis (with Honors)](https://www.coursera.org/learn/bayesian-statistics) (University of California, Santa Cruz) ([CERT]((https://www.coursera.org/account/accomplishments/certificate/PBLGQ4RRE43G))
+- [Bayesian Statistics: From Concept to Data Analysis (with Honors)](https://www.coursera.org/learn/bayesian-statistics) (University of California, Santa Cruz) ([CERT](https://www.coursera.org/account/accomplishments/certificate/PBLGQ4RRE43G))
 - [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills) (Duke University) ([CERT](https://www.coursera.org/account/accomplishments/certificate/D47THQVKDNFN))
 
 ### (C) Domain Expertise
@@ -256,9 +256,9 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 - [Customising your models with TensorFlow 2](https://www.coursera.org/learn/customising-models-tensorflow2) (Imperial College London) ([CERT](https://www.coursera.org/account/accomplishments/certificate/ETAAVQ38RJYB))
 - [Getting Started with AWS Machine Learning](https://www.coursera.org/learn/aws-machine-learning) (Amazon Web Services) ([CERT](https://www.coursera.org/account/accomplishments/certificate/UKK9BTBF2DBD))
 - [An Introduction to Practical Deep Learning](https://www.coursera.org/learn/intro-practical-deep-learning) (Intel) ([CERT](https://www.coursera.org/account/accomplishments/certificate/KXRV73X7U539))
-- [Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning-duke) (Duke University) ([CERT]())
+- [Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning-duke) (Duke University) ([CERT](https://www.coursera.org/account/accomplishments/certificate/JG4UFQVQGDLS))
 - [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/certificate/KMVEC4J3Q9UZ))
-- [Machine Learning for Business Professionals](https://www.coursera.org/learn/machine-learning-business-professionals) (Google Cloud) ([CERT]())
+- [Machine Learning for Business Professionals](https://www.coursera.org/learn/machine-learning-business-professionals) (Google Cloud) ([CERT](https://www.coursera.org/account/accomplishments/certificate/WMWEKBXU5NWY))
 
 ### (B ∩ C) Research
 - [Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience) (University of Washington) ([CERT](https://www.coursera.org/account/accomplishments/certificate/TX9ND3LBD48X))
