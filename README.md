@@ -151,7 +151,7 @@ This is a repository to showcase my achievement in the courses I took/am taking 
   7. [Addressing Large Hadron Collider Challenges by Machine Learning](https://www.coursera.org/learn/hadron-collider-machine-learning)
   
 - [Advanced Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp) (Google Cloud)
-  1. [End-to-End Machine Learning with TensorFlow on GCP](https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp)
+  1. [End-to-End Machine Learning with TensorFlow on GCP](https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp) ([CERT](https://www.coursera.org/account/accomplishments/certificate/U2LAQW5GF4U4))
   2. [Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems)
   3. [Image Understanding with TensorFlow on GCP](https://www.coursera.org/learn/image-understanding-tensorflow-gcp)
   4. [Sequence Models for Time Series and Natural Language Processing](https://www.coursera.org/learn/sequence-models-tensorflow-gcp)
