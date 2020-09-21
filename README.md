@@ -153,7 +153,7 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 - [Advanced Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp) (Google Cloud)
   1. [End-to-End Machine Learning with TensorFlow on GCP](https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp) ([CERT](https://www.coursera.org/account/accomplishments/certificate/U2LAQW5GF4U4))
   2. [Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems) ([CERT](https://www.coursera.org/account/accomplishments/certificate/ZDMF6U9MW6HA))
-  3. [Image Understanding with TensorFlow on GCP](https://www.coursera.org/learn/image-understanding-tensorflow-gcp)
+  3. [Image Understanding with TensorFlow on GCP](https://www.coursera.org/learn/image-understanding-tensorflow-gcp) ([CERT](https://www.coursera.org/account/accomplishments/certificate/UM5YCPZQNWAZ))
   4. [Sequence Models for Time Series and Natural Language Processing](https://www.coursera.org/learn/sequence-models-tensorflow-gcp)
   5. [Recommendation Systems with TensorFlow on GCP](https://www.coursera.org/learn/recommendation-models-gcp)
 
