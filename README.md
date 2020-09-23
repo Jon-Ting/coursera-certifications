@@ -83,8 +83,8 @@ This is a repository to showcase my achievement in the courses I took/am taking 
   
 - [AWS Fundamentals](https://www.coursera.org/specializations/aws-fundamentals) (AWS) ([CERT]())
   1. [AWS Fundamentals: Going Cloud-Native](https://www.coursera.org/learn/aws-fundamentals-going-cloud-native) ([CERT](https://www.coursera.org/account/accomplishments/certificate/8QJQJUZ4KV4Y))
-  2. [AWS Fundamentals: Addressing Security Risk](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk) ([CERT]())
-  3. [AWS Fundamentals: Migrating to the Cloud](https://www.coursera.org/learn/aws-fundamentals-cloud-migration) ([CERT]())
+  2. [AWS Fundamentals: Addressing Security Risk](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk) ([CERT](https://www.coursera.org/account/accomplishments/certificate/G5NCN5T5QYN9))
+  3. [AWS Fundamentals: Migrating to the Cloud](https://www.coursera.org/learn/aws-fundamentals-cloud-migration) ([CERT](https://www.coursera.org/account/accomplishments/certificate/7JCRAB5PRDBR))
   4. [AWS Fundamentals: Building Serverless Applications](https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications) ([CERT]())
 
 ### (B) Mathematics & Statistics
