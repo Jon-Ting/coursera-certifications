@@ -150,12 +150,12 @@ This is a repository to showcase my achievement in the courses I took/am taking 
   6. [Natural Language Processing](https://www.coursera.org/learn/language-processing)
   7. [Addressing Large Hadron Collider Challenges by Machine Learning](https://www.coursera.org/learn/hadron-collider-machine-learning)
   
-- [Advanced Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp) (Google Cloud)
+- [Advanced Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp) (Google Cloud) ([CERT](https://www.coursera.org/account/accomplishments/specialization/certificate/DM5HB57U485C))
   1. [End-to-End Machine Learning with TensorFlow on GCP](https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp) ([CERT](https://www.coursera.org/account/accomplishments/certificate/U2LAQW5GF4U4))
   2. [Production Machine Learning Systems](https://www.coursera.org/learn/gcp-production-ml-systems) ([CERT](https://www.coursera.org/account/accomplishments/certificate/ZDMF6U9MW6HA))
   3. [Image Understanding with TensorFlow on GCP](https://www.coursera.org/learn/image-understanding-tensorflow-gcp) ([CERT](https://www.coursera.org/account/accomplishments/certificate/UM5YCPZQNWAZ))
   4. [Sequence Models for Time Series and Natural Language Processing](https://www.coursera.org/learn/sequence-models-tensorflow-gcp) ([CERT](https://www.coursera.org/account/accomplishments/certificate/LNFUN9J3LK5F))
-  5. [Recommendation Systems with TensorFlow on GCP](https://www.coursera.org/learn/recommendation-models-gcp)
+  5. [Recommendation Systems with TensorFlow on GCP](https://www.coursera.org/learn/recommendation-models-gcp) ([CERT](https://www.coursera.org/account/accomplishments/certificate/CGZXQ8YK5QVB))
 
 - [Machine Learning for Everyone with Eric Siegel](https://www.coursera.org/specializations/machine-learning-for-everyone) (SAS)
   1. [The Power of Machine Learning: Boost Business, Accumulate Clicks, Fight Fraud, and Deny Deadbeats](https://www.coursera.org/learn/the-power-of-machine-learning) ([CERT](https://www.coursera.org/account/accomplishments/certificate/4HQJ52GMV5V2))
