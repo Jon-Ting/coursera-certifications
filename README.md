@@ -81,11 +81,11 @@ This is a repository to showcase my achievement in the courses I took/am taking 
   2. [Networking in Google Cloud: Defining and Implementing Networks](https://www.coursera.org/learn/networking-gcp-defining-implementing-networks)
   3. [Networking in Google Cloud: Hybrid Connectivity and Network Management](https://www.coursera.org/learn/networking-gcp-hybrid-connectivity-network-management)
   
-- [AWS Fundamentals](https://www.coursera.org/specializations/aws-fundamentals) (AWS) ([CERT]())
+- [AWS Fundamentals](https://www.coursera.org/specializations/aws-fundamentals) (AWS) ([CERT](https://www.coursera.org/account/accomplishments/certificate/Q5XHEU3BSFJK))
   1. [AWS Fundamentals: Going Cloud-Native](https://www.coursera.org/learn/aws-fundamentals-going-cloud-native) ([CERT](https://www.coursera.org/account/accomplishments/certificate/8QJQJUZ4KV4Y))
   2. [AWS Fundamentals: Addressing Security Risk](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk) ([CERT](https://www.coursera.org/account/accomplishments/certificate/G5NCN5T5QYN9))
   3. [AWS Fundamentals: Migrating to the Cloud](https://www.coursera.org/learn/aws-fundamentals-cloud-migration) ([CERT](https://www.coursera.org/account/accomplishments/certificate/7JCRAB5PRDBR))
-  4. [AWS Fundamentals: Building Serverless Applications](https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications) ([CERT]())
+  4. [AWS Fundamentals: Building Serverless Applications](https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications) ([CERT](https://www.coursera.org/account/accomplishments/certificate/BQUQ8AJR95P3))
 
 ### (B) Mathematics & Statistics
 - [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) (Imperial College London) ([CERT](https://www.coursera.org/account/accomplishments/specialization/certificate/VUGP8VP3VGWM))
