@@ -157,10 +157,10 @@ This is a repository to showcase my achievement in the courses I took/am taking 
   4. [Sequence Models for Time Series and Natural Language Processing](https://www.coursera.org/learn/sequence-models-tensorflow-gcp) ([CERT](https://www.coursera.org/account/accomplishments/certificate/LNFUN9J3LK5F))
   5. [Recommendation Systems with TensorFlow on GCP](https://www.coursera.org/learn/recommendation-models-gcp) ([CERT](https://www.coursera.org/account/accomplishments/certificate/CGZXQ8YK5QVB))
 
-- [Machine Learning for Everyone with Eric Siegel](https://www.coursera.org/specializations/machine-learning-for-everyone) (SAS)
+- [Machine Learning for Everyone with Eric Siegel](https://www.coursera.org/specializations/machine-learning-for-everyone) (SAS) ([CERT](https://www.coursera.org/account/accomplishments/certificate/YDVPXCGQWLZP))
   1. [The Power of Machine Learning: Boost Business, Accumulate Clicks, Fight Fraud, and Deny Deadbeats](https://www.coursera.org/learn/the-power-of-machine-learning) ([CERT](https://www.coursera.org/account/accomplishments/certificate/4HQJ52GMV5V2))
   2. [Launching Machine Learning: Delivering Operational Success with Gold Standard ML Leadership](https://www.coursera.org/learn/launching-machine-learning-leadership) ([CERT](https://www.coursera.org/account/accomplishments/certificate/DCJ3QWJS4CLW))
-  3. [Machine Learning Under the Hood: The Technical Tips, Tricks, and Pitfalls](https://www.coursera.org/learn/machine-learning-under-the-hood)
+  3. [Machine Learning Under the Hood: The Technical Tips, Tricks, and Pitfalls](https://www.coursera.org/learn/machine-learning-under-the-hood) ([CERT](https://www.coursera.org/account/accomplishments/certificate/BZQN74JMNHYQ))
 
 ### (B ∩ C) Research
 - [Data Analysis and Interpretation](https://www.coursera.org/specializations/data-analysis) (Wesleyan Univeristy)
