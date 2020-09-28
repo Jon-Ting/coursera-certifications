@@ -265,6 +265,7 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 - [Materials Data Sciences and Informatics](https://www.coursera.org/learn/material-informatics) (Georgia Institute of Technology) ([CERT](https://www.coursera.org/account/accomplishments/certificate/9JDL6A8795VY))
 
 ### (A ∩ C) Software Development
+- [Google Cloud Product Fundamentals](https://www.coursera.org/learn/google-cloud-product-fundamentals) (Google Cloud) ([CERT](https://www.coursera.org/account/accomplishments/certificate/DBCHEVT9JUC9))
 
 ### (A ∩ B ∩ C) Data Science
 - [Code Free Data Science](https://www.coursera.org/learn/code-free-data-science) (University of California San Diego) ([CERT](https://www.coursera.org/account/accomplishments/certificate/QBFEJRYXCF5E))
