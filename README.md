@@ -77,7 +77,7 @@ This is a repository to showcase my achievement in the courses I took/am taking 
   3. [Mathematics for Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science)
 
 - [Networking in Google Cloud](https://www.coursera.org/specializations/networking-google-cloud-platform) (Google Cloud)
-  1. [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals)
+  1. [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) ([CERT](https://www.coursera.org/account/accomplishments/certificate/PQ4UCJNJGUG9))
   2. [Networking in Google Cloud: Defining and Implementing Networks](https://www.coursera.org/learn/networking-gcp-defining-implementing-networks)
   3. [Networking in Google Cloud: Hybrid Connectivity and Network Management](https://www.coursera.org/learn/networking-gcp-hybrid-connectivity-network-management)
   
