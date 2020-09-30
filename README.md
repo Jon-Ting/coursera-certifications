@@ -1,5 +1,5 @@
 # Coursera-Certifications
-This is a repository to showcase my achievement in the courses I took/am taking for self-development on the Coursera platform. I have attempted to group the courses based on the data science Venn diagram. Feel free to check out the courses ([COURSE NAME]() links) and certificates ([CERT]() links). Would appreciate comments on the grouping of the courses too!
+This is a repository to showcase my achievement in the courses I took/am taking for self-development on the Coursera platform. I have attempted to group the courses based on the data science Venn diagram. Feel free to check out the courses (COURSE NAME links) and certificates (CERT links). Would appreciate comments on the grouping of the courses too!
 <p align="center"> <img src="https://miro.medium.com/max/1000/1*lws-OQOODF-wP9XLH1NDHQ.png" alt="Data Science Venn Diagram" width="350" height="310""/> </p>
 
 
@@ -78,7 +78,7 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 
 - [Networking in Google Cloud](https://www.coursera.org/specializations/networking-google-cloud-platform) (Google Cloud)
   1. [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) ([CERT](https://www.coursera.org/account/accomplishments/certificate/PQ4UCJNJGUG9))
-  2. [Networking in Google Cloud: Defining and Implementing Networks](https://www.coursera.org/learn/networking-gcp-defining-implementing-networks)
+  2. [Networking in Google Cloud: Defining and Implementing Networks](https://www.coursera.org/learn/networking-gcp-defining-implementing-networks) ([CERT](https://www.coursera.org/account/accomplishments/certificate/6SSP38929T9Z))
   3. [Networking in Google Cloud: Hybrid Connectivity and Network Management](https://www.coursera.org/learn/networking-gcp-hybrid-connectivity-network-management)
   
 - [AWS Fundamentals](https://www.coursera.org/specializations/aws-fundamentals) (AWS) ([CERT](https://www.coursera.org/account/accomplishments/certificate/Q5XHEU3BSFJK))
