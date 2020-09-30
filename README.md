@@ -249,6 +249,7 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 
 ### (C) Domain Expertise
 - [Computational Vision](https://www.coursera.org/learn/mind-machine-computational-vision) (University of Colorado Boulder) ([CERT](https://www.coursera.org/account/accomplishments/certificate/SCYBGHYHH88Y))
+- [Nanotechnology: A Maker’s Course](https://www.coursera.org/learn/nanotechnology) (Duke University, North Carolina State University, The University of North Carolina at Chapel Hill) ([CERT](https://www.coursera.org/account/accomplishments/certificate/PJ73GJUXR2W8))
 
 ### (A ∩ B) Machine Learning
 - [Machine Learning](https://www.coursera.org/learn/machine-learning) (Stanford University) ([CERT](https://www.coursera.org/account/accomplishments/certificate/9UGWQTVD9AVY))
