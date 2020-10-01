@@ -3,6 +3,7 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 <p align="center"> <img src="https://miro.medium.com/max/1000/1*lws-OQOODF-wP9XLH1NDHQ.png" alt="Data Science Venn Diagram" width="350" height="310""/> </p>
 
 
+
 ## [Professional Certificates](https://www.coursera.org/professional-certificates)
 - [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/specialization/certificate/7ZWLY4C9X6J9))
   1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning]() ([CERT](https://www.coursera.org/account/accomplishments/certificate/GMW94FLST9L7))
@@ -43,12 +44,19 @@ This is a repository to showcase my achievement in the courses I took/am taking 
     5. [Preparing for the Google Cloud Professional Cloud Architect Exam](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam)
   - [Reliable Google Cloud Infrastructure: Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process)
   
+- [SAS Programmer](https://www.coursera.org/professional-certificates/sas-programming) (SAS)
+  1. [Getting Started with SAS Programming](https://www.coursera.org/learn/sas-programming-basics)
+  2. [Doing More with SAS Programming](https://www.coursera.org/learn/sas-programming-advanced)
+  3. [Practical SAS Programming and Certification Review](https://www.coursera.org/learn/sas-programming-certification-review)
+  
 - [SAS Visual Business Analytics](https://www.coursera.org/professional-certificates/sas-visual-business-analytics) (SAS)
   1. [Getting Started with SAS Visual Analytics](https://www.coursera.org/learn/preparing-data-sas-va)
   2. [Data Analysis and Reporting in SAS Visual Analytics](https://www.coursera.org/learn/data-analysis-reporting-sas-va)
   3. [Using Data for Geographic Mapping and Forecasting in SAS Visual Analytics](https://www.coursera.org/learn/using-data-geographic-mapping-sas-va)
   4. [Performing Network, Path, and Text Analyses in SAS Visual Analytics](https://www.coursera.org/learn/network-path-text-analyses-sas-va)
   5. [Creating Advanced Reports with SAS Visual Analytics](https://www.coursera.org/learn/advanced-reports-sas-va)
+
+
 
 ## [Specializations](https://www.coursera.org/courses?query=specialization)
 ### (A) Computer Science
@@ -66,20 +74,15 @@ This is a repository to showcase my achievement in the courses I took/am taking 
   4. [Using Databases with Python](https://www.coursera.org/learn/python-databases) ([CERT](https://www.coursera.org/learn/python-databases))
   5. [Capstone: Retrieving, Processing, and Visualizing Data with Python (with Honors)](https://www.coursera.org/learn/python-data-visualization) ([CERT](https://www.coursera.org/learn/python-data-visualization))
 
-- [SAS Programmer](https://www.coursera.org/professional-certificates/sas-programming) (SAS)
-  1. [Getting Started with SAS Programming](https://www.coursera.org/learn/sas-programming-basics)
-  2. [Doing More with SAS Programming](https://www.coursera.org/learn/sas-programming-advanced)
-  3. [Practical SAS Programming and Certification Review](https://www.coursera.org/learn/sas-programming-certification-review)
-
 - [Introduction to Computer Science and Programming](https://www.coursera.org/specializations/introduction-computer-science-programming) (University of London)
   1. [Introduction to Computer Programming](https://www.coursera.org/learn/introduction-to-computer-programming) ([CERT](https://www.coursera.org/account/accomplishments/certificate/C7SFQU86LU7J))
   2. [How Computers Work](https://www.coursera.org/learn/how-computers-work) ([CERT](https://www.coursera.org/account/accomplishments/certificate/PRS5UHZY85CJ))
   3. [Mathematics for Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science)
 
-- [Networking in Google Cloud](https://www.coursera.org/specializations/networking-google-cloud-platform) (Google Cloud)
+- [Networking in Google Cloud](https://www.coursera.org/specializations/networking-google-cloud-platform) (Google Cloud) ([CERT](https://www.coursera.org/account/accomplishments/certificate/PDXKJNT43X8H))
   1. [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) ([CERT](https://www.coursera.org/account/accomplishments/certificate/PQ4UCJNJGUG9))
   2. [Networking in Google Cloud: Defining and Implementing Networks](https://www.coursera.org/learn/networking-gcp-defining-implementing-networks) ([CERT](https://www.coursera.org/account/accomplishments/certificate/6SSP38929T9Z))
-  3. [Networking in Google Cloud: Hybrid Connectivity and Network Management](https://www.coursera.org/learn/networking-gcp-hybrid-connectivity-network-management)
+  3. [Networking in Google Cloud: Hybrid Connectivity and Network Management](https://www.coursera.org/learn/networking-gcp-hybrid-connectivity-network-management) ([CERT](https://www.coursera.org/account/accomplishments/certificate/LESAR57HANCD))
   
 - [AWS Fundamentals](https://www.coursera.org/specializations/aws-fundamentals) (AWS) ([CERT](https://www.coursera.org/account/accomplishments/certificate/Q5XHEU3BSFJK))
   1. [AWS Fundamentals: Going Cloud-Native](https://www.coursera.org/learn/aws-fundamentals-going-cloud-native) ([CERT](https://www.coursera.org/account/accomplishments/certificate/8QJQJUZ4KV4Y))
@@ -236,6 +239,7 @@ This is a repository to showcase my achievement in the courses I took/am taking 
   4. [Applying Machine Learning to your Data with GCP](https://www.coursera.org/learn/data-insights-gcp-apply-ml)
 
 
+
 ## [Courses](https://www.coursera.org/courses)
 ### (A) Computer Science
 - [Python Programming Essentials](https://www.coursera.org/learn/python-programming) (Rice University) ([CERT](https://www.coursera.org/account/accomplishments/certificate/SCHPQ8ZJ3TPX))
@@ -270,6 +274,7 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 
 ### (A ∩ B ∩ C) Data Science
 - [Code Free Data Science](https://www.coursera.org/learn/code-free-data-science) (University of California San Diego) ([CERT](https://www.coursera.org/account/accomplishments/certificate/QBFEJRYXCF5E))
+
 
 
 ## [Guided Projects](https://www.coursera.org/courses?query=guided%20projects) (Coursera Project Network)
