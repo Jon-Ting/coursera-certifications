@@ -234,7 +234,7 @@ This is a repository to showcase my achievement in the courses I took/am taking 
   
 - [From Data to Insights with Google Cloud Platform](https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform) (Google Cloud)
   1. [Exploring and Preparing your Data with BigQuery](https://www.coursera.org/learn/gcp-exploring-preparing-data-bigquery) ([CERT](https://www.coursera.org/account/accomplishments/certificate/2S3EPK9MSGXD))
-  2. [Creating New BigQuery Datasets and Visualizing Insights](https://www.coursera.org/learn/gcp-creating-bigquery-datasets-visualizing-insights)
+  2. [Creating New BigQuery Datasets and Visualizing Insights](https://www.coursera.org/learn/gcp-creating-bigquery-datasets-visualizing-insights) ([CERT](https://www.coursera.org/account/accomplishments/certificate/JF2HNBX9XMYV))
   3. [Achieving Advanced Insights with BigQuery](https://www.coursera.org/learn/gcp-advanced-insights-bigquery)
   4. [Applying Machine Learning to your Data with GCP](https://www.coursera.org/learn/data-insights-gcp-apply-ml)
 
