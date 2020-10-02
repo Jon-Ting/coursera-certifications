@@ -341,7 +341,7 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 - [Support Vector Machines in Python, From Start to Finish](https://www.coursera.org/projects/support-vector-machines-in-python) ([CERT](https://www.coursera.org/account/accomplishments/certificate/SQ2H7T5ZNJYZ))
 - [Support Vector Machines with scikit-learn](https://www.coursera.org/projects/support-vector-machines-scikit-learn) ([CERT](https://www.coursera.org/account/accomplishments/certificate/SU4FAZT3NM3M))
 
-###### Decision Trees
+###### Tree-Based Models
 - [Classification Trees in Python, From Start To Finish](https://www.coursera.org/projects/classification-trees-in-python) ([CERT](https://www.coursera.org/account/accomplishments/certificate/2E33PD9DK9Z7))
 - [Predict Employee Turnover with scikit-learn](https://www.coursera.org/projects/employee-turnover-scikit-learn) ([CERT](https://www.coursera.org/account/accomplishments/certificate/D9FVVU2L6ZGP))
 - [Predict Diabetes with a Random Forest using R](https://www.coursera.org/projects/predict-diabetes-with-a-random-forest-using-r) ([CERT](https://www.coursera.org/account/accomplishments/certificate/JMS73DW8T9NC))
