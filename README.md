@@ -39,7 +39,7 @@ This is a repository to showcase my achievement in the courses I took/am taking 
   - [Cloud Engineering with Google Cloud](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
     1. [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) ([CERT](https://www.coursera.org/account/accomplishments/certificate/PQ4UCJNJGUG9))
     2. [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation) ([CERT](https://www.coursera.org/account/accomplishments/certificate/5P3HASD8Z3WW))
-    3. [Essential Google Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services)
+    3. [Essential Google Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services) ([CERT](https://www.coursera.org/account/accomplishments/certificate/EBQNBGMQDHSP))
     4. [Elastic Google Cloud Infrastructure: Scaling and Automation](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation)
     5. [Preparing for the Google Cloud Professional Cloud Architect Exam](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam)
   - [Reliable Google Cloud Infrastructure: Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process)
