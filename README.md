@@ -36,12 +36,12 @@ This is a repository to showcase my achievement in the courses I took/am taking 
   - [Preparing for the Google Cloud Professional Data Engineer Exam](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam)
 
 - [Cloud Architecture with Google Cloud](https://www.coursera.org/professional-certificates/gcp-cloud-architect) (Google Cloud)
-  - [Cloud Engineering with Google Cloud](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
+  - [Cloud Engineering with Google Cloud](https://www.coursera.org/professional-certificates/cloud-engineering-gcp) ([CERT](https://www.coursera.org/account/accomplishments/specialization/certificate/D962QA7JJRXV))
     1. [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) ([CERT](https://www.coursera.org/account/accomplishments/certificate/PQ4UCJNJGUG9))
     2. [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation) ([CERT](https://www.coursera.org/account/accomplishments/certificate/5P3HASD8Z3WW))
     3. [Essential Google Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services) ([CERT](https://www.coursera.org/account/accomplishments/certificate/EBQNBGMQDHSP))
     4. [Elastic Google Cloud Infrastructure: Scaling and Automation](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation) ([CERT](https://www.coursera.org/account/accomplishments/certificate/D8HJSSY5KLGN))
-    5. [Preparing for the Google Cloud Associate Cloud Engineer Exam](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam)
+    5. [Preparing for the Google Cloud Associate Cloud Engineer Exam](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam) ([CERT](https://www.coursera.org/account/accomplishments/certificate/QZR3WXAJT4ZP))
   - [Reliable Google Cloud Infrastructure: Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process)
   - [Preparing for the Google Cloud Professional Cloud Architect Exam](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam)
   
