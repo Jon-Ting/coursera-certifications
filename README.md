@@ -295,6 +295,7 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 - [Create Informative Presentations with Google Slides](https://www.coursera.org/learn/create-informative-presentations-google-slides) ([CERT](https://www.coursera.org/account/accomplishments/certificate/CUQRVVG7E96L))
 
 #### Web Development & Graphics Design
+- [RESTful API with HTTP and JavaScript](https://www.coursera.org/projects/restful-api-http-javascript) ([CERT](https://www.coursera.org/account/accomplishments/certificate/SMGBEZ298G66))
 - [Develop a Company Website with Wix](https://www.coursera.org/projects/develop-a-company-website-with-wix) ([CERT](https://www.coursera.org/account/accomplishments/certificate/UFKCJEDAMQM8))
 - [Create a Business Marketing Brand Kit Using Canva](https://www.coursera.org/learn/create-business-marketing-brand-kit-using-canva) ([CERT](https://www.coursera.org/account/accomplishments/certificate/RYJM4ULGR9C9))
 - [Use Canva to Create Social Media Marketing Designs](https://www.coursera.org/projects/using-canva-create-social-media-marketing-design) ([CERT](https://www.coursera.org/account/accomplishments/certificate/N22EJ7TFUA8T))
@@ -309,6 +310,7 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 - [Processing Data with Python](https://www.coursera.org/learn/python-data-processing) ([CERT](https://www.coursera.org/account/accomplishments/certificate/Z9HE3JKEVBG9))
 - [Exploratory Data Analysis with Seaborn](https://www.coursera.org/projects/exploratory-data-analysis-seaborn) ([CERT](https://www.coursera.org/account/accomplishments/certificate/VV356BT4TWWF))
 - [Image Data Augmentation with Keras](https://www.coursera.org/projects/data-augmentation-keras) ([CERT](https://www.coursera.org/account/accomplishments/certificate/B3VVAWMJ5UZZ))
+- [Building Custom Regional Reports with Google Analytics](https://www.coursera.org/projects/building-custom-regional-reports-with-google-analytics) ([CERT](https://www.coursera.org/account/accomplishments/certificate/V9M8K3YWZSHS))
 - [Build Data Analysis and Transformation Skills in R using DPLYR](https://www.coursera.org/projects/dplyr) ([CERT](https://www.coursera.org/account/accomplishments/certificate/V24KU8C9T8CA))
 
 ### (B) Mathematics & Statistics
@@ -324,7 +326,9 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 - [Basic Image Classification with TensorFlow](https://www.coursera.org/projects/tensorflow-beginner-basic-image-classification) ([CERT](https://www.coursera.org/account/accomplishments/certificate/NAW7GS7TU5JM))
 - [Neural Network from Scratch in TensorFlow](https://www.coursera.org/projects/neural-network-tensorflow) ([CERT](https://www.coursera.org/account/accomplishments/certificate/GKCA6FTKUSVT))
 - [Classification with Transfer Learning in Keras](https://www.coursera.org/projects/image-classification-transfer-learning-keras) ([CERT](https://www.coursera.org/account/accomplishments/certificate/E35S6YZB84DB))
+- [Real-time OCR and Text Detection with Tensorflow, OpenCV and Tesseract](https://www.coursera.org/projects/ocr-text-detection-tensorflow-opencv-tesseract) ([CERT](https://www.coursera.org/account/accomplishments/certificate/3F43LSV3247L))
 - [Perform Real-Time Object Detection with YOLOv3](https://www.coursera.org/projects/real-time-object-detection-yolo) ([CERT](https://www.coursera.org/account/accomplishments/certificate/RYEHMWR7BX9F))
+- [Siamese Network with Triplet Loss in Keras](https://www.coursera.org/projects/siamese-network-triplet-loss-keras) ([CERT](https://www.coursera.org/account/accomplishments/certificate/RY5SKVWA8PSS))
 - [Facial Expression Recognition with Keras](https://www.coursera.org/projects/facial-expression-recognition-keras) ([CERT](https://www.coursera.org/account/accomplishments/certificate/GD6XN638QHT3))
 - [Image Classification with CNNs using Keras](https://www.coursera.org/projects/image-classification-cnn-keras) ([CERT](https://www.coursera.org/account/accomplishments/certificate/4KC7VE6J2TFJ))
 - [Build a Deep Learning Based Image Classifier with R](https://www.coursera.org/projects/deep-learning-image-classifier-r) ([CERT](https://www.coursera.org/account/accomplishments/certificate/2ERV9SWXTBB3))
@@ -380,6 +384,7 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 - [Automatic Machine Learning with H2O AutoML and Python](https://www.coursera.org/projects/automatic-machine-learning-h2o-automl-python) ([CERT](https://www.coursera.org/account/accomplishments/certificate/SGC9UWC4Z3RD))
 - [Machine Learning with H2O Flow](https://www.coursera.org/projects/machine-learning-h2o-flow) ([CERT](https://www.coursera.org/account/accomplishments/certificate/TBTH3D8UEC8S))
 - [Predictive Analytics for Business with H2O in R](https://www.coursera.org/projects/predictive-analytics-business-h2o-r) ([CERT](https://www.coursera.org/account/accomplishments/certificate/F58G26M5CBM2))
+- [Machine Learning Pipelines with Azure ML Studio](https://www.coursera.org/projects/azure-machine-learning-studio-pipeline) ([CERT](https://www.coursera.org/account/accomplishments/certificate/TXWLUDQ496YK))
 - [Predictive Modelling with Azure Machine Learning Studio](https://www.coursera.org/projects/predictive-modelling-azure-machine-learning-studio) ([CERT](https://www.coursera.org/account/accomplishments/certificate/RJ4PFHTAJ8ZN))
 - [Deep Learning Inference with Azure ML Studio](https://www.coursera.org/projects/azure-machine-learning-studio-deep-learning-inference) ([CERT](https://www.coursera.org/account/accomplishments/certificate/KXSGE4MTT7TC))
 - [AutoML for Computer Vision with Microsoft Custom Vision](https://www.coursera.org/projects/automl-computer-vision-microsoft-custom-vision) ([CERT](https://www.coursera.org/account/accomplishments/certificate/LK4AHALWV8TC))
