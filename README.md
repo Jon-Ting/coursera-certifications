@@ -1,4 +1,4 @@
-# coursera-certifications
+# Coursera-Certifications
 This is a repository to showcase my achievement in the courses I took/am taking for self-development on the Coursera platform. I have attempted to group the courses based on the data science Venn diagram shown below. The links to the courses (COURSE NAME) and certificates (CERT) are provided. Would appreciate comments on the grouping of the courses too if you have any better idea!
 <p align="center"> <img src="https://miro.medium.com/max/1000/1*lws-OQOODF-wP9XLH1NDHQ.png" alt="Data Science Venn Diagram" width="350" height="310""/> </p>
 
