@@ -6,7 +6,7 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 
 ## [Professional Certificates](https://www.coursera.org/professional-certificates)
 - [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/specialization/certificate/7ZWLY4C9X6J9))
-  1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning]() ([CERT](https://www.coursera.org/account/accomplishments/certificate/GMW94FLST9L7))
+  1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) ([CERT](https://www.coursera.org/account/accomplishments/certificate/GMW94FLST9L7))
   2. [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/introduction-tensorflow) ([CERT](https://www.coursera.org/account/accomplishments/certificate/LK3NYANEUYGG))
   3. [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow) ([CERT](https://www.coursera.org/account/accomplishments/certificate/KG52MENXRA5U))
   4. [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction) ([CERT](https://www.coursera.org/account/accomplishments/certificate/BHTYXH4PBVMP))
@@ -44,18 +44,6 @@ This is a repository to showcase my achievement in the courses I took/am taking 
     5. [Preparing for the Google Cloud Associate Cloud Engineer Exam](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam) ([CERT](https://www.coursera.org/account/accomplishments/certificate/QZR3WXAJT4ZP))
   - [Reliable Google Cloud Infrastructure: Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process)
   - [Preparing for the Google Cloud Professional Cloud Architect Exam](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam)
-  
-- [SAS Programmer](https://www.coursera.org/professional-certificates/sas-programming) (SAS)
-  1. [Getting Started with SAS Programming](https://www.coursera.org/learn/sas-programming-basics)
-  2. [Doing More with SAS Programming](https://www.coursera.org/learn/sas-programming-advanced)
-  3. [Practical SAS Programming and Certification Review](https://www.coursera.org/learn/sas-programming-certification-review)
-  
-- [SAS Visual Business Analytics](https://www.coursera.org/professional-certificates/sas-visual-business-analytics) (SAS)
-  1. [Getting Started with SAS Visual Analytics](https://www.coursera.org/learn/preparing-data-sas-va)
-  2. [Data Analysis and Reporting in SAS Visual Analytics](https://www.coursera.org/learn/data-analysis-reporting-sas-va)
-  3. [Using Data for Geographic Mapping and Forecasting in SAS Visual Analytics](https://www.coursera.org/learn/using-data-geographic-mapping-sas-va)
-  4. [Performing Network, Path, and Text Analyses in SAS Visual Analytics](https://www.coursera.org/learn/network-path-text-analyses-sas-va)
-  5. [Creating Advanced Reports with SAS Visual Analytics](https://www.coursera.org/learn/advanced-reports-sas-va)
 
 
 
@@ -101,13 +89,6 @@ This is a repository to showcase my achievement in the courses I took/am taking 
   1. [Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data) ([CERT](https://www.coursera.org/account/accomplishments/certificate/UP96SDBA6TQF))
   2. [Inferential Statistical Analysis with Python](https://www.coursera.org/learn/inferential-statistical-analysis-python) ([CERT](https://www.coursera.org/account/accomplishments/certificate/SVQD6UB33QYP))
   3. [Fitting Statistical Models to Data with Python](https://www.coursera.org/learn/fitting-statistical-models-data-python) ([CERT](https://www.coursera.org/account/accomplishments/certificate/FDQYWGV9XPRW))
-
-- [Statistics with R](https://www.coursera.org/specializations/statistics) (Duke University)
-  1. [Introduction to Probability and Data with R](https://www.coursera.org/learn/probability-intro)
-  2. [Inferential Statistics](https://www.coursera.org/learn/inferential-statistics-intro)
-  3. [Linear Regression and Modeling](https://www.coursera.org/learn/linear-regression-model)
-  4. [Bayesian Statistics](https://www.coursera.org/learn/bayesian)
-  5. [Statistics with R Capstone](https://www.coursera.org/learn/statistics-project)
 
 - [Introduction to Discrete Mathematics for Computer Science](https://www.coursera.org/specializations/discrete-mathematics) (National Research University Higher School of Economics)
   1. [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof)
@@ -174,29 +155,12 @@ This is a repository to showcase my achievement in the courses I took/am taking 
   4. [Machine Learning for Data Analysis](https://www.coursera.org/learn/machine-learning-data-analysis)
   5. [Data Analysis and Interpretation Capstone](https://www.coursera.org/learn/data-analysis-capstone)
 
-- [AI for Medicine](https://www.coursera.org/specializations/ai-for-medicine) (deeplearning.ai)
-  1. [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis)
-  2. [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis)
-  3. [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment)
-  
-- [Statistical Analysis with R for Public Health](https://www.coursera.org/specializations/statistical-analysis-r-public-health) (Imperial College London)
-  1. [Introduction to Statistics & Data Analysis in Public Health](https://www.coursera.org/learn/introduction-statistics-data-analysis-public-health)
-  2. [Linear Regression in R for Public Health](https://www.coursera.org/learn/linear-regression-r-public-health)
-  3. [Logistic Regression in R for Public Health](https://www.coursera.org/learn/logistic-regression-r-public-health)
-  4. [Survival Analysis in R for Public Health](https://www.coursera.org/learn/survival-analysis-r-public-health)
-
 ### (A ∩ C) Software Development
 - [Python Data Products for Predictive Analytics](https://www.coursera.org/specializations/python-data-products-for-predictive-analytics)  (University of California San Diego)
   1. [Basic Data Processing and Visualization](https://www.coursera.org/learn/basic-data-processing-visualization-python) ([CERT](https://www.coursera.org/account/accomplishments/certificate/7S6VU63NDW3U))
   2. [Design Thinking and Predictive Analytics for Data Products](https://www.coursera.org/learn/design-thinking-predictive-analytics-data-products) ([CERT](https://www.coursera.org/account/accomplishments/certificate/ENN89UZY3CYD))
   3. [Meaningful Predictive Modeling](https://www.coursera.org/learn/meaningful-predictive-modeling) ([CERT](https://www.coursera.org/account/accomplishments/certificate/7VRABAUXVBX7))
   4. [Deploying Machine Learning Models](https://www.coursera.org/learn/deploying-machine-learning-models)
-
-- [TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment) (deeplearning.ai)
-  1. [Browser-based Models with TensorFlow.js](https://www.coursera.org/learn/browser-based-models-tensorflow)
-  2. [Device-based Models with TensorFlow Lite](https://www.coursera.org/learn/device-based-models-tensorflow)
-  3. [Data Pipelines with TensorFlow Data Services](https://www.coursera.org/learn/data-pipelines-tensorflow)
-  4. [Advanced Deployment Scenarios with TensorFlow](https://www.coursera.org/learn/advanced-deployment-scenarios-tensorflow)
 
 ### (A ∩ B ∩ C) Data Science
 - [Advanced Data Science with IBM](https://www.coursera.org/specializations/advanced-data-science-ibm) (IBM)
